@@ -17,7 +17,7 @@ offline, in a browser, with no install and no build step.
 ### ShopFlow — production management for a furniture workshop
 *The MRP system we couldn't buy: orders, parallel routing lanes, live shop-floor status.*
 
-[![ShopFlow](assets/shopflow.png)](https://github.com/gervdalius-droid/shopflow)
+![ShopFlow](assets/shopflow.png)
 
 Work orders break into article lines; each line's operations form **parallel lanes** (facades,
 carcass) that merge into a shared final lane, and pieces flow downstream as they finish. Workers
@@ -25,7 +25,9 @@ sign in with a PIN on a shared tablet and see only their own station. Managers g
 what's overdue, what's short, who's on the floor right now.
 
 ~31,000 lines, **1,057 in-browser tests**, offline-first PWA with optional cloud sync.
-&nbsp;→ **[Repo](https://github.com/gervdalius-droid/shopflow)** · [Live demo](https://gervdalius-droid.github.io/shopflow-app/)
+
+*Source is currently private while I scrub workshop data out of its history — happy to walk
+through the code on request.*
 
 ---
 
