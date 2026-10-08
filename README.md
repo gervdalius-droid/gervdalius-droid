@@ -10,6 +10,11 @@ These aren't tutorials or clones. They are in daily use by people who are not de
 tablets in a workshop, often with no reliable internet — which is why almost all of them run
 offline, in a browser, with no install and no build step.
 
+**What's published here are demo builds.** The versions the workshop actually runs hold real
+customer data and live credentials, so those stay private. Each demo is the same code with the
+cloud wiring removed and a fictional company seeded in — so you can open any of them and click
+around immediately, without an account.
+
 ---
 
 ## Featured work
@@ -17,7 +22,7 @@ offline, in a browser, with no install and no build step.
 ### ShopFlow — production management for a furniture workshop
 *The MRP system we couldn't buy: orders, parallel routing lanes, live shop-floor status.*
 
-![ShopFlow](assets/shopflow.png)
+[![ShopFlow](assets/shopflow.png)](https://github.com/gervdalius-droid/shopflow)
 
 Work orders break into article lines; each line's operations form **parallel lanes** (facades,
 carcass) that merge into a shared final lane, and pieces flow downstream as they finish. Workers
@@ -26,8 +31,7 @@ what's overdue, what's short, who's on the floor right now.
 
 ~31,000 lines, **1,057 in-browser tests**, offline-first PWA with optional cloud sync.
 
-*Source is currently private while I scrub workshop data out of its history — happy to walk
-through the code on request.*
+&nbsp;→ **[Repo](https://github.com/gervdalius-droid/shopflow)** · [Live demo](https://gervdalius-droid.github.io/shopflow/)
 
 ---
 
