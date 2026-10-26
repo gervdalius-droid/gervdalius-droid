@@ -1,5 +1,7 @@
 # I build operational tools that solve everyday problems
 
+**→ Portfolio with a guided tour of the apps: [gervdalius-droid.github.io](https://gervdalius-droid.github.io/)**
+
 I work in furniture manufacturing in Lithuania, and I write the software the workshop runs on.
 
 Every project here started the same way: something on the shop floor was slow, manual or
@@ -162,4 +164,4 @@ Web Workers · Service Workers / PWA · IndexedDB · Supabase (Postgres, Auth, R
 **Domain:** furniture manufacturing, CAD/CAM, CNC, nesting and cut optimisation, MRP and
 production routing, Lithuanian invoicing and VAT.
 
-📫 gervdalius@gmail.com
+📫 dalius.gervinskas@gmail.com · [Portfolio](https://gervdalius-droid.github.io/)
